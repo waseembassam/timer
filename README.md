@@ -1,4 +1,7 @@
 ***
+Countdown with Java Script
+***
+![alt text](https://www.google.com/search?q=countdown&client=firefox-b-ab&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiqt7newYHSAhVJ0hoKHRF-D7kQ_AUICCgB&biw=1366&bih=635#imgrc=H5LNPcvRLkI2PM:)7
 #How To Run ? 
 
 The code consists of four functions with one object, the first function is the general function which contains all the other functions, the second one function is the Countdown function which is responsible for the time countdown process, third one is the start function, this one is responsible for the Start process which starts the countdown, the final functions is called the stop function which is resposible for stopping the countdown.
