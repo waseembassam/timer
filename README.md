@@ -1,5 +1,5 @@
 ***
-#Countdown with Java Script
+#Countdown in Java Script
 ***
 ![Alt Text](https://github.com/waseembassam/timer/blob/master/black-and-white-film-countdown_-1qqo4b-h__M0000.jpg)
 #How To Run ? 
