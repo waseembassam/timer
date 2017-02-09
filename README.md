@@ -3,7 +3,7 @@
 ***
 ![Alt Text](https://github.com/waseembassam/timer/blob/master/black-and-white-film-countdown_-1qqo4b-h__M0000.jpg)
 #How To Run ? 
-<font color="green"> Some green text </font>
+<span style="color:#fff; font-family: 'Bebas Neue'; font-size: 4em;">
 The code consists of three functions with one object, the first function is the Countdown function which is responsible for the time countdown process, second one is the start function, this function is responsible for the Start process which starts the countdown, the final functions is called the stop function which is resposible for stopping the countdown.
 ***
 
