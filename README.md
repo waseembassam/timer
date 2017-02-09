@@ -13,19 +13,20 @@ The code consists of three functions with one object, the first function is the 
 
 Well, the function which is resposible for the countdown takes minutes and seconds only which starts the countdown every second then counts down the minutes untill it reaches the 0 value of minutes.
 ***
-
+![Alt Text](https://github.com/waseembassam/timer/blob/master/bar.jpg)
 
 #why?
 
 Because of the testing step, because we want to make sure that the object we used should return the function correctly, and also to make sure that the function returns done whenever it's done to makes sure that it operates well.
 ***
-![Alt Text](https://github.com/waseembassam/timer/blob/master/bar.jpg)
+![Alt Text](https://github.com/waseembassam/timer/blob/master/timeee.jpg)
 
 #how?
 
 By making a comparison between the source code and the testind code, the source code should operate as the test code, both of the codes should be compatible with the other, of course this should lead into a clear goad which is creating the best performance for the code and to prevent errors from being applied.
 ***
-![Alt Text](https://github.com/waseembassam/timer/blob/master/timeee.jpg)
+
+![Alt Text](https://github.com/waseembassam/timer/blob/master/done.jpg)
 
 
 #project plan?
