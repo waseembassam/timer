@@ -40,7 +40,7 @@ var sec=600,
 
 
 function yts(){
- sec = document.getElementById("field").value;
+ sec = document.getElementById("field").value*60;
 }
 
 function reset (){
