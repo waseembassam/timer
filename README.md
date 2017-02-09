@@ -32,8 +32,12 @@ By making a comparison between the source code and the testind code, the source 
 #project plan?
 First, we created the project with three files, the first is the index file which contains the HTML and CSS codes, the second file is the Java Script code file, this is the basic file which contains the real-time functions operates in the background of the page and it's the most importanat file, finally we created the test file which makes the test of the Java Script code and test's if the code works perfectly as it should be or not, which is very important manner.
 ***
+# Screenshots
 ![Alt Text](https://github.com/waseembassam/timer/blob/master/bar.jpg)
+***
 ![Alt Text](https://github.com/waseembassam/timer/blob/master/timeee.jpg)
+***
 ![Alt Text](https://github.com/waseembassam/timer/blob/master/done.jpg)
+***
 # You Can Reach us @ https://waseembassam.github.io/timer/
 ***
