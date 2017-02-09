@@ -1,7 +1,8 @@
 
-  var timer_is_on = 0;
-  var sec = 600 ;
+  var timer_is_on = true;
+var sec=600,
   countDiv = document.getElementById('countdown'),
+      
 
   secondPass,
 
@@ -23,6 +24,7 @@
       min = "0" + min;
 
     }
+      
 
     countDiv.innerHTML = min + ':' + remsec;
     if (sec > 0){
@@ -36,9 +38,17 @@
     
 }
 
+
+function yts(){
+ sec = document.getElementById("field").value;
+}
+
+function reset (){
+    sec=600;
+}
  function startCount() {
     if (!timer_is_on) {
-        timer_is_on = 1;
+        timer_is_on = true;
        setInterval(function(){
     secondPass()
 
@@ -49,7 +59,7 @@
 
 function stopCount() {
     clearInterval(countdown);
-    timer_is_on = 0;
+    timer_is_on = false;
 }
 
 
