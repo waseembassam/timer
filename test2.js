@@ -11,17 +11,7 @@ test("should return Object",function(t){
 });
 
 
-QUnit.test( "secondPass async call", function(t) {
-  t.expect( 1 );
- 
-  var a = t.async();
 
-  setInterval(function() {
-    t.ok( true, "test resumed from async operation 1" );
-    a();
-  }, 1000 );
-
-});
 
 test("when start sec more than 0, should sec --", function (t) {
 
