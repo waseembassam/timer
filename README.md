@@ -19,7 +19,7 @@ Well, the function which is resposible for the countdown takes minutes and secon
 
 Because of the testing step, because we want to make sure that the object we used should return the function correctly, and also to make sure that the function returns done whenever it's done to makes sure that it operates well.
 ***
-
+![Alt Text](https://github.com/waseembassam/timer/blob/master/bar.jpg)
 
 #how?
 
