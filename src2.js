@@ -44,7 +44,7 @@ function yts(){
 }
 
 function reset (){
-    sec=600;
+    sec=document.getElementById("field").value*60;
 }
  function startCount() {
     if (!timer_is_on) {
