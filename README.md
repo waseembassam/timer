@@ -1,5 +1,5 @@
 ***
-#Countdown in Java Script
+#Promodor Countdown
 ***
 ![Alt Text](https://github.com/waseembassam/timer/blob/master/black-and-white-film-countdown_-1qqo4b-h__M0000.jpg)
 #How To Run ? 
@@ -11,7 +11,7 @@ The code consists of three functions with one object, the first function is the 
 
 #What ?
 
-Well, the function which is resposible for the countdown takes minutes and seconds only which starts the countdown every second then counts down the minutes untill it reaches the 0 value of minutes.
+Well, the function which is resposible for the countdown takes a minutes value which starts the countdown every second then counts down the minutes untill it reaches the 0 value of minutes and seconds.
 ***
 
 
