@@ -25,6 +25,7 @@ Because of the testing step, because we want to make sure that the object we use
 
 By making a comparison between the source code and the testind code, the source code should operate as the test code, both of the codes should be compatible with the other, of course this should lead into a clear goad which is creating the best performance for the code and to prevent errors from being applied.
 ***
+![Alt Text](https://github.com/waseembassam/timer/blob/master/timeee.jpg)
 
 
 #project plan?
